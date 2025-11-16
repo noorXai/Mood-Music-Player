@@ -61,24 +61,30 @@ Type how you feel — and it instantly launches the perfect track in your browse
 
 ## 🧠 How It Works
 
-1. Run the program:  
+1. **Run the program:** 
 ```bash
 python Mood-Music-Player.py
-Program asks: "How are you feeling today?"
+```
+
+**Program asks: "How are you feeling today?"**
 
 Type your mood (e.g., happy, sad, focused)
-
 Program opens a matching YouTube song instantly 🎶
 
-📁 File Name
-Mood-Music-Player.py
+---
 
-👩‍💻 About the Creator
+## 📁 File Name
+```bash
+Mood-Music-Player.py
+```
+
+# 👩‍💻 About the Creator
 Hi! I'm noorXai, a beginner Python & AI learner building a professional portfolio step-by-step.
 I create fun, smart, and interactive Python programs to showcase creativity and coding skills.
 More projects coming soon 🚀💜
+---
 
-⭐ Support & Contribution
+# ⭐ Support & Contribution
 Star ⭐ this repo if you like it
 
 Fork 🔀 or contribute improvements
