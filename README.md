@@ -79,9 +79,11 @@ Mood-Music-Player.py
 ```
 
 # 👩‍💻 About the Creator
+
 Hi! I'm noorXai, a beginner Python & AI learner building a professional portfolio step-by-step.
 I create fun, smart, and interactive Python programs to showcase creativity and coding skills.
 More projects coming soon 🚀💜
+
 ---
 
 # ⭐ Support & Contribution
@@ -91,4 +93,4 @@ Fork 🔀 or contribute improvements
 
 Feedback and ideas are welcome in Issues
 
-<p align="center">Made with ❤️ by <strong>noorXai</strong></p> ```
+<p align="center">Made with ❤️ by <strong>noorXai</strong></p> 
